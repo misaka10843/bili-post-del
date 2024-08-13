@@ -21,5 +21,7 @@ API参考文档：[bilibili-API-collect](https://socialsisteryi.github.io/bilibi
 1. 在浏览器中打开[您的b站主页](https://space.bilibili.com/)
 2. 打开开发者工具(F12)后刷新
 3. 在网络选项中选择任意请求(推荐第一个)，然后根据图中找到请求标头中的cookie，复制其中的值
+   ![image](https://github.com/user-attachments/assets/f3ab6f85-6d05-4adb-b424-04b81caf5935)
+
 4. 在任何地方创建一个文本文件将复制的内容粘贴进去，**请注意不要复制到`cookie:`，并且注意粘贴过去只有1行**（推荐在本程序目录下从创建一个`cookie.txt`，然后在程序需要提供时直接输入`cookie.txt`）
 
