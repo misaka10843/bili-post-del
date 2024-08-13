@@ -6,6 +6,8 @@
 
 API参考文档：[bilibili-API-collect](https://socialsisteryi.github.io/bilibili-API-collect/)
 
+您可以在此处下载exe文件：[releases](https://github.com/misaka10843/bili-post-del/releases)
+
 ## 如何使用
 
 本程序完成了获取到删除的步骤，您只需要提供您的cookie即可开始运行
